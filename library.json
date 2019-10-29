@@ -1,0 +1,21 @@
+{
+    "name": "ArPicMtes",
+    "description": "Pin Change Interrupt events queue for Arduno UNO",
+    "keywords": "PinChange,Interrupt,Ultasonic",
+    "authors": [
+        {
+            "name": "Jiri Gabriel",
+            "email": "tykefcz@gamil.com",
+            "maintainer": true
+        }
+    ],
+    "repository": {
+        "type": "none",
+        "url": "https://localhost/ArPicMtes"
+    },
+    "version": "1.0.1",
+    "frameworks": "Arduino",
+    "examples": [
+        "examples/*/*.pde"
+    ]
+}

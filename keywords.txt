@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For Funduino
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PCEVENT	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+ticks16	KEYWORD2
+ticks	KEYWORD2
+ticksToMicros	KEYWORD2
+isPcEvent	KEYWORD2
+pcEventPop	KEYWORD2
+pcEventPin	KEYWORD2
+pcEventStamp	KEYWORD2
+pcEventRiseEdge	KEYWORD2
+pcAttachPin	KEYWORD2
+pcDetachPin	KEYWORD2
+pcBegin	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
