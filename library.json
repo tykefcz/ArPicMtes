@@ -10,12 +10,14 @@
         }
     ],
     "repository": {
-        "type": "none",
-        "url": "https://localhost/ArPicMtes"
+        "type": "git",
+        "url": "https://github.com/tykefcz/ArPicMtes.git"
     },
     "version": "1.0.1",
-    "frameworks": "Arduino",
+    "frameworks": "arduino",
+    "downloadUrl": "http://github.com/tykefcz/ArPicMtes/releases/download/v1.0.1/ArPicMtes-1.0.1.zip",
+    "platforms": "atmelavr",
     "examples": [
-        "examples/*/*.pde"
+        "examples/*/*.ino"
     ]
 }
